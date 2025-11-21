@@ -24,7 +24,7 @@
     "url": "https://github.com/rodrigo-morais/angular-meetup/issues"
   },
   "devDependencies": {
-    "grunt": "~0.4.5",
+    "grunt": "~1.2.0",
     "grunt-angular-templates": "^0.5.7",
     "grunt-cli": "~0.1.13",
     "grunt-contrib-concat": "*",
